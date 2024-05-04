@@ -1,0 +1,14 @@
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\bin\Debug\netcoreapp3.1\MethodGiris.exe
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\bin\Debug\netcoreapp3.1\MethodGiris.deps.json
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\bin\Debug\netcoreapp3.1\MethodGiris.runtimeconfig.json
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\bin\Debug\netcoreapp3.1\MethodGiris.runtimeconfig.dev.json
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\bin\Debug\netcoreapp3.1\MethodGiris.dll
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\bin\Debug\netcoreapp3.1\MethodGiris.pdb
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\obj\Debug\netcoreapp3.1\MethodGiris.csproj.AssemblyReference.cache
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\obj\Debug\netcoreapp3.1\MethodGiris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\obj\Debug\netcoreapp3.1\MethodGiris.AssemblyInfoInputs.cache
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\obj\Debug\netcoreapp3.1\MethodGiris.AssemblyInfo.cs
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\obj\Debug\netcoreapp3.1\MethodGiris.csproj.CoreCompileInputs.cache
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\obj\Debug\netcoreapp3.1\MethodGiris.dll
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\obj\Debug\netcoreapp3.1\MethodGiris.pdb
+C:\Users\mahammadmi\source\repos\MethodGiris\MethodGiris\obj\Debug\netcoreapp3.1\MethodGiris.genruntimeconfig.cache
